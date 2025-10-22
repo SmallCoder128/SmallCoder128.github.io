@@ -1,11 +1,14 @@
 ---
-title: "SmallCoder128.github.io"
+title: "Calvin Small"
+image: media/IMG_0950.jpg
+toc: false
+about: 
+  template: jolla
+  image-width: 10em
+  links: 
+    - icon: github
+      href: https://github.com/SmallCoder128
+      target: blank
 ---
 
-This is a Quarto website. edit
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am a sophomore at Chaminade University of Honolulu, Majoring in Data Science, Analytics, and Visualization. I havew a background in chocolate production, and endeavor to make a career from my education. Outside of work I enjoy volunteering with my church's youth group and rock climbing.
