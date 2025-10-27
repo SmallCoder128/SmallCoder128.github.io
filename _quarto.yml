@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "SmallCoder128.github.io"
+  # title: "SmallCoder128.github.io"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - resume.qmd
+    right: 
+      - icon: github
+        href: http://github.com/SmallCoder128
 
 format:
   html:

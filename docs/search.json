@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Calvin Small",
     "section": "",
-    "text": "I am a sophomore at Chaminade University of Honolulu, Majoring in Data Science, Analytics, and Visualization. I havew a background in chocolate production, and endeavor to make a career from my education. Outside of work I enjoy volunteering with my church’s youth group and rock climbing."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a sophomore at Chaminade University of Honolulu, Majoring in Data Science, Analytics, and Visualization. I have a background in chocolate production, and endeavor to make a career from my education. As of my Sophomore year I have learned SQL, R, and Python and have completed multiple classes in topics surrounding my major. I have also had the opportunity to participate in multiple data research internships which have cemented my decision to continue with my major."
   }
 ]
