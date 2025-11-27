@@ -9,6 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - resume.qmd
+      - projects.qmd
+      - href: https://smallcoder128.github.io/dashboards
+        text: Dashboards
     right: 
       - icon: github
         href: http://github.com/SmallCoder128
